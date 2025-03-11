@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  ![Image](https://github.com/user-attachments/assets/c47977fb-d708-4837-a20f-c8d90a3b38a6)
+</div>
 
 <!--
 **jiwon2030/jiwon2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
