@@ -6,7 +6,7 @@
 <p align="center">
   백엔드 개발자로서 확장성과 유지보수성을 고려한 개발을 지향합니다.<br>
   더 나은 코드를 고민하며, 서비스의 안정성과 성능을 최적화하는 과정이 즐겁습니다.<br>
-  <a href="https://www.notion.so/Dev-wiki-4156d789f882411389522a9df801ee83?pvs=21">Dev Wiki</a>를 운영하며 학습을 기록하고 공유합니다.
+  <a href="https://www.notion.so/Dev-wiki-4156d789f882411389522a9df801ee83?pvs=21">Notion Blog</a>를 운영하며 학습을 기록하고 공유합니다.
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
